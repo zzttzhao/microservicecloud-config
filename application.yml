@@ -12,4 +12,8 @@ spring:
 spring:
   profiles: test
   application:
+<<<<<<< HEAD
     name: microservicecloud-config-zhao-test
+=======
+    name: microservicecloud-config-zhao-test
+>>>>>>> a2acd92147609dcab471cf230418192eb50bf816
